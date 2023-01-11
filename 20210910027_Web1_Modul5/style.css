@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background: FF6900;
+    display: none;
+}
+#tombol,
+#tombol2{
+    padding: 10px;
+    color:#fff;
+    background: #34495E;
+    border: none;
+}
+.kata{
+    font-size: small;
+    font-family: 'Times New Roman';
+
+}
+.div{
+    padding: auto;
+}
